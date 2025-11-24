@@ -1,0 +1,35 @@
+﻿table{
+border:inherit
+}	
+body{
+	background-color:#D8EDFF
+}
+td, th {
+	border:inherit
+}
+
+.text-content {
+    text-align: center;
+    width: 100%;
+    float:none}
+    
+    
+h1{
+	font-size:35pt ; text-align:center ; font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif ; color:#374DC8}
+
+h2{
+	font-size:30pt ; text-align:center ; color:#3366CC ; font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif
+}
+
+h3 {
+	font-size: 15.5pt ; text-align: left; color:#000066 ;
+	}
+
+h4{
+	font-size:25pt ; text-align:center; font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif
+; color:#000066 ; font-weight:800 ;
+}
+
+h5 {
+	font-size: 15.5pt ; text-align:center; color:#000066 ;
+	}
